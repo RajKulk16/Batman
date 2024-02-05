@@ -54,14 +54,20 @@ The primary objective of this project is to implement customer segmentation, lev
 
 ## Supporting Screenshots
 
-![image](https://github.com/RajKulk16/RFM-Analysis-Kmeans/assets/74099005/417770fc-b0d2-49a9-a9d1-34c74534960d)
+![image](https://github.com/RajKulk16/Customer-Clusters-Revealed/assets/74099005/051a52b8-d3e2-426b-85d5-d896a0a55421)
 
-![image](https://github.com/RajKulk16/RFM-Analysis-Kmeans/assets/74099005/7d9949c5-d44e-4892-9768-7126c30be5b2)
 
-![image](https://github.com/RajKulk16/RFM-Analysis-Kmeans/assets/74099005/af693085-02d7-4e86-bec7-bfca8478c603)
+![image](https://github.com/RajKulk16/Customer-Clusters-Revealed/assets/74099005/930e535f-e560-4a4d-a85b-ecdbc6b6b665)
 
-![image](https://github.com/RajKulk16/RFM-Analysis-Kmeans/assets/74099005/cff2ad23-4321-4ef2-858a-9346c389fdd0)
 
-![image](https://github.com/RajKulk16/RFM-Analysis-Kmeans/assets/74099005/e0081e81-817a-4bcb-ab17-a4acfb4a4a77)
+![image](https://github.com/RajKulk16/Customer-Clusters-Revealed/assets/74099005/d97652ed-a991-4a88-b0ef-761c086d5f8b)
 
-![image](https://github.com/RajKulk16/RFM-Analysis-Kmeans/assets/74099005/12c5ac7c-d752-4369-b90a-7a5b84d297d6)
+
+![image](https://github.com/RajKulk16/Customer-Clusters-Revealed/assets/74099005/c4329efb-4299-49ac-bd7b-31633b7b6fd8)
+
+
+![image](https://github.com/RajKulk16/Customer-Clusters-Revealed/assets/74099005/b163cdd2-ab38-4c7e-9d75-8f7c51bfe129)
+
+
+![image](https://github.com/RajKulk16/Customer-Clusters-Revealed/assets/74099005/cbc23055-eff4-48cd-8613-60a1fd24ee5f)
+
