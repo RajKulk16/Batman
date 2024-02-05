@@ -8,6 +8,8 @@ The primary objective of this project is to implement customer segmentation, lev
    - The dataset encompasses all transactions from a UK-based and registered, non-store online retail entity, spanning the period from 01/12/2009 to 09/12/2011. The company specializes in unique all-occasion gift-ware, with a considerable portion of its clientele consisting of wholesalers.
 
    - The dataset has been meticulously curated to facilitate customer segmentation. The segmentation is achieved through RFM modeling, allowing businesses to categorize customers based on their transaction behavior. Further refinement is achieved using K-Means clustering, enabling more precise targeting and personalized marketing strategies.
+  
+   - The dataset contains over 1.05 million records with 8 features.
 
 2. **Attributes:**
     - InvoiceNo: Nominal. A 6-digit integral number uniquely assigned to each transaction. If starting with 'c', indicates a cancellation.
