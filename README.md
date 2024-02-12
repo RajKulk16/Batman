@@ -24,7 +24,7 @@ The primary objective of this project is to implement customer segmentation, lev
 ## Flow of the Project
 
 1. **Data Analysis, Preprocessing, Engineering:**
-    - Addressed duplicates, missing values, null values, etc., ensuring minimal impact on business analysis.
+    - Addressed duplicates, missing values, null values, etc., ensuring its impact on business analysis.
     - Conducted in-depth analysis, including understanding country-wise import/export patterns, customer distribution by continent, and comparisons between cancelled and non-cancelled orders.
     - Analyzed the top 10 products in each country/continent for strategic business insights.
     - Performed logical data cleaning and transformation.
