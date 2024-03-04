@@ -31,6 +31,9 @@ The primary objective of this project is to implement customer segmentation, lev
 
 2. **RFM Modeling:**
     - RFM stands for Recency, Frequency, and Monetary Value. It's a marketing model that segments customers based on their purchasing patterns.
+         - Recency: How recently a customer has made a purchase
+         - Frequency: How often a customer makes a purchase
+         - Monetary value: How much money a customer spends on purchases
     - Calculated RFM values for each customer.
     - Assigned RFM segments to customers.
     - Assigned loyalty levels to customers based on RFM analysis for targeted marketing.
